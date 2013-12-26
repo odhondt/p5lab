@@ -14,7 +14,7 @@ int nit = 0;
 color c;
 int mouseval = 0;
 void draw(){
-  //if(mouseval==1){
+  if(mouseval==1){
     nit++;
     noStroke();
 
@@ -33,13 +33,13 @@ void draw(){
       fill(c);
       ellipse(xi/2, yi/2, r, r);
     }
-  //}
+  }
 }
 
-//void mouseReleased() {
-//  if(mouseval==0){
-//    mouseval = 1;
-//  }else{
-//    mouseval = 0;
-//  }
-//}
+void mouseReleased() {
+  if(mouseval==0){
+    mouseval = 1;
+  }else{
+    mouseval = 0;
+  }
+}
