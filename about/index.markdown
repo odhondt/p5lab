@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-This blog is about my experiments in visual coding with [processing](http://processing.org).
+This blog is about my experiments in creative coding with [processing](http://processing.org).
 
 The visuals are rendered in the browser thanks to [processing.js](http://processingjs.org/).
 
