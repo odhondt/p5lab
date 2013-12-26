@@ -8,13 +8,13 @@
 		
 			<item>
 				<title>My first processing sketch: resampling Madrid</title>
-				<description>&lt;p&gt;I took the image resampling example from the &lt;a href=&quot;http://processingjs.org&quot;&gt;processing.js&lt;/a&gt; homepage and made my own version of it. The picture I am using was taken by me in Madrid, Spain.&lt;/p&gt;
+				<description>&lt;p&gt;I took the image resampling example from the &lt;a href=&quot;http://processingjs.org&quot;&gt;processing.js&lt;/a&gt; homepage and made my own version of it. I took this picture in Madrid, Spain.&lt;/p&gt;
 
 &lt;p&gt;Click on the image to start/stop the animation.&lt;/p&gt;
 &lt;script src=&#39;http://odhondt.github.io/p5lab//processing.js&#39; type=&#39;text/javascript&#39;&gt;&lt;![CDATA[]]&gt;&lt;/script&gt;
 &lt;p&gt;&lt;canvas data-processing-sources=&#39;http://odhondt.github.io/p5lab//sketches/rain/rain.pde&#39; /&gt;&lt;/p&gt;
 
-&lt;p&gt;More to come.&lt;/p&gt;</description>
+&lt;p&gt;test&lt;/p&gt;</description>
 				<pubDate>Wed, 25 Dec 2013 00:00:00 +0100</pubDate>
 				<link>http://odhondt.github.io/p5lab//2013/12/25/resampling-Madrid/</link>
 				<guid isPermaLink="true">http://odhondt.github.io/p5lab//2013/12/25/resampling-Madrid/</guid>
