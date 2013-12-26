@@ -10,18 +10,16 @@ void setup(){
 
 }
 float m = 1;
-int nit = 0;
 color c;
 int mouseval = 0;
 void draw(){
   if(mouseval==1){
-    nit++;
     noStroke();
 
-    if(m<10000)
+    if(m<8000)
       m = m * 1.1;
     else
-      m=10000;
+      m=8000;
 
     for(int i = 0; i < int(m); i++){
       float r = random(1.0, 6.0);
