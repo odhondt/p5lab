@@ -8,3 +8,4 @@ I took the image resampling example from the [processing.js](http://processingjs
 <script src="processing.js" type="text/javascript"></script>
 <canvas data-processing-sources="sketches/rain/rain.pde"></canvas>
 
+More to come.
