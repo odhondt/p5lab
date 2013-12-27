@@ -1,6 +1,6 @@
 PImage img;
 // the path to the image is relative to the page where the script is run from
-img = loadImage("http://odhondt.github.io/p5lab/sketches/rain/Madrid.jpg");
+img = loadImage("sketches/rain/Madrid.jpg");
 void setup(){
   size(1415/2,940/2); // had to hard code the size to 
   // make javascript use the right dimensions
