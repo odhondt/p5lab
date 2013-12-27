@@ -3,21 +3,21 @@
 	<channel>
 		<title>Visual experiments with processing</title>
 		<description>Experiments in creative coding with processing.org</description>
-		<link>http://odhondt.github.io/p5lab/</link>
-		<atom:link href="http://odhondt.github.io/p5lab//feed.xml" rel="self" type="application/rss+xml" />
+		<link></link>
+		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>My first processing sketch: resampling Madrid</title>
 				<description>&lt;p&gt;I took the image resampling example from the &lt;a href=&quot;http://processingjs.org&quot;&gt;processing.js&lt;/a&gt; homepage and made my own version of it. I took this picture in Madrid, Spain.&lt;/p&gt;
 
 &lt;p&gt;Click on the image to start/stop the animation.&lt;/p&gt;
-&lt;script src=&#39;http://odhondt.github.io/p5lab//processing.js&#39; type=&#39;text/javascript&#39;&gt;&lt;![CDATA[]]&gt;&lt;/script&gt;
-&lt;p&gt;&lt;canvas data-processing-sources=&#39;http://odhondt.github.io/p5lab//sketches/rain/rain.pde&#39; /&gt;&lt;/p&gt;
+&lt;script src=&#39;/processing.js&#39; type=&#39;text/javascript&#39;&gt;&lt;![CDATA[]]&gt;&lt;/script&gt;
+&lt;p&gt;&lt;canvas data-processing-sources=&#39;/sketches/rain/rain.pde&#39; /&gt;&lt;/p&gt;
 
 &lt;p&gt;test&lt;/p&gt;</description>
 				<pubDate>Wed, 25 Dec 2013 00:00:00 +0100</pubDate>
-				<link>http://odhondt.github.io/p5lab//2013/12/25/resampling-Madrid/</link>
-				<guid isPermaLink="true">http://odhondt.github.io/p5lab//2013/12/25/resampling-Madrid/</guid>
+				<link>/2013/12/25/resampling-Madrid/</link>
+				<guid isPermaLink="true">/2013/12/25/resampling-Madrid/</guid>
 			</item>
 		
 	</channel>

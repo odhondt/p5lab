@@ -1,4 +1,5 @@
 _site 
+configlocal.yml
 *~
 *.lock
 *.DS_Store

@@ -3,9 +3,9 @@ layout: default
 title: About
 ---
 
-This blog shows some experiments in creative coding with [processing](http://processing.org).
+This blog shows my experiments in creative coding with [processing](http://processing.org).
 
-I am still learning... :)
+I am still learning! :)
 
 The visuals are rendered in the browser thanks to [processing.js](http://processingjs.org/).
 
