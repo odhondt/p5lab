@@ -18,7 +18,7 @@ void setup(){
         color c = img.get(x*3, y*3);
         float vx = random(-2,2);
         float vy = random(-2,2);
-        DotList.add(new Dot(x,y,vx,vy,7,c));
+        DotList.add(new Dot(x-5,y-5,vx,vy,7,c));
       }
     }
   }
