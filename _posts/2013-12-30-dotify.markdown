@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Dotify"
+---
+
+Another small sketch using a photo of Wroclaw's main square.
+
+Click on the image to start/stop the animation.
+
+<script src="{{ site.url }}/processing.js" type="text/javascript"></script>
+<canvas data-processing-sources="{{ site.url }}/sketches/dotify/dotify.pde"></canvas>
