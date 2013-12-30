@@ -14,7 +14,7 @@ void setup(){
   DotList = new ArrayList<Dot>();
   for(int y = 0; y < height; y++){
     for(int x = 0; x < width; x++){
-      if(x%11==0 && y%11==0){
+      if(x%11==0 && y%11==0 && x>0 && y>0){
         color c = img.get(x*3, y*3);
         float vx = random(-2,2);
         float vy = random(-2,2);
