@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Voronoi painting"
+---
+Click on the image to start/stop the animation..
+
+<canvas data-processing-sources="{{ site.url }}/sketches/voronify/voronify.pde"></canvas>
+
+Using a Voronoi tesselation to make an animated abstract painting from a photo.
+The algorithm is simple and is implemented in a few lines. First a pixel is randomly picked in the original photo and the background is set to the pixel color. The (spatial) distance of each point to this pixel is stored in a matrix. Then, another pixel is picked and all the points that are closer to this new pixel are updated with the new color. And so on... Simple!
+

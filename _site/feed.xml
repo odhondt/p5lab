@@ -7,11 +7,23 @@
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Voronoi painting</title>
+				<description>&lt;p&gt;Click on the image to start/stop the animation..&lt;/p&gt;
+
+&lt;p&gt;&lt;canvas data-processing-sources=&#39;/sketches/voronify/voronify.pde&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Using a Voronoi tesselation to make an animated abstract painting from a photo. The algorithm is simple and is implemented in a few lines. First a pixel is randomly picked in the original photo and the background is set to the pixel color. The (spatial) distance of each point to this pixel is stored in a matrix. Then, another pixel is picked and all the points that are closer to this new pixel are updated with the new color. And so on… Simple!&lt;/p&gt;</description>
+				<pubDate>Fri, 03 Jan 2014 00:00:00 +0100</pubDate>
+				<link>/2014/01/03/voronoi/</link>
+				<guid isPermaLink="true">/2014/01/03/voronoi/</guid>
+			</item>
+		
+			<item>
 				<title>Dotify</title>
 				<description>&lt;p&gt;Another small sketch using a photo of Wroclaw’s main square.&lt;/p&gt;
 
 &lt;p&gt;Click on the image to start/stop the animation.&lt;/p&gt;
-&lt;script src=&#39;/processing.js&#39; type=&#39;text/javascript&#39;&gt;&lt;![CDATA[]]&gt;&lt;/script&gt;
+
 &lt;p&gt;&lt;canvas data-processing-sources=&#39;/sketches/dotify/dotify.pde&#39; /&gt;&lt;/p&gt;</description>
 				<pubDate>Mon, 30 Dec 2013 00:00:00 +0100</pubDate>
 				<link>/2013/12/30/dotify/</link>
@@ -23,7 +35,7 @@
 				<description>&lt;p&gt;I took the image resampling example from the &lt;a href=&quot;http://processingjs.org&quot;&gt;processing.js&lt;/a&gt; homepage and made my own version of it. I took this picture in Madrid, Spain.&lt;/p&gt;
 
 &lt;p&gt;Click on the image to start/stop the animation.&lt;/p&gt;
-&lt;script src=&#39;/processing.js&#39; type=&#39;text/javascript&#39;&gt;&lt;![CDATA[]]&gt;&lt;/script&gt;
+
 &lt;p&gt;&lt;canvas data-processing-sources=&#39;/sketches/rain/rain.pde&#39; /&gt;&lt;/p&gt;</description>
 				<pubDate>Wed, 25 Dec 2013 00:00:00 +0100</pubDate>
 				<link>/2013/12/25/resampling-Madrid/</link>
