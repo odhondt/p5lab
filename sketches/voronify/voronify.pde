@@ -1,17 +1,17 @@
-/* @pjs preload="sketches/voronify/PostCard.jpg"; */
+/* @pjs preload="sketches/voronify/Sky.jpg"; */
 PImage img;
 float dmap[][]; // image of distances
 
-float scale = 0.2; 
+float scale = 0.3; 
 color c;
 int mouseval = 0;
 
 //  String url = "StLunaire.jpg"; // Comment for p5
-String url = "sketches/voronify/PostCard.jpg"; // uncomment for p5js
+String url = "sketches/voronify/Sky.jpg"; // uncomment for p5js
 img = loadImage(url);
 
 void setup(){
-  size(428,284);
+  size(428,282);
   smooth();
   noStroke();
 //  frameRate(60);

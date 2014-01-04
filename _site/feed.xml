@@ -20,11 +20,11 @@
 		
 			<item>
 				<title>Dotify</title>
-				<description>&lt;p&gt;Another small sketch using a photo of Wroclaw’s main square.&lt;/p&gt;
+				<description>&lt;p&gt;Click on the image to start/stop the animation.&lt;/p&gt;
 
-&lt;p&gt;Click on the image to start/stop the animation.&lt;/p&gt;
+&lt;p&gt;&lt;canvas data-processing-sources=&#39;/sketches/dotify/dotify.pde&#39; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;canvas data-processing-sources=&#39;/sketches/dotify/dotify.pde&#39; /&gt;&lt;/p&gt;</description>
+&lt;p&gt;Another small sketch using a photo of Wroclaw’s main square.&lt;/p&gt;</description>
 				<pubDate>Mon, 30 Dec 2013 00:00:00 +0100</pubDate>
 				<link>/2013/12/30/dotify/</link>
 				<guid isPermaLink="true">/2013/12/30/dotify/</guid>
@@ -32,11 +32,11 @@
 		
 			<item>
 				<title>My first processing sketch: resampling Madrid</title>
-				<description>&lt;p&gt;I took the image resampling example from the &lt;a href=&quot;http://processingjs.org&quot;&gt;processing.js&lt;/a&gt; homepage and made my own version of it. I took this picture in Madrid, Spain.&lt;/p&gt;
+				<description>&lt;p&gt;Click on the image to start/stop the animation.&lt;/p&gt;
 
-&lt;p&gt;Click on the image to start/stop the animation.&lt;/p&gt;
+&lt;p&gt;&lt;canvas data-processing-sources=&#39;/sketches/rain/rain.pde&#39; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;canvas data-processing-sources=&#39;/sketches/rain/rain.pde&#39; /&gt;&lt;/p&gt;</description>
+&lt;p&gt;I took the image resampling example from the &lt;a href=&quot;http://processingjs.org&quot;&gt;processing.js&lt;/a&gt; homepage and made my own version of it. I took this picture in Madrid, Spain.&lt;/p&gt;</description>
 				<pubDate>Wed, 25 Dec 2013 00:00:00 +0100</pubDate>
 				<link>/2013/12/25/resampling-Madrid/</link>
 				<guid isPermaLink="true">/2013/12/25/resampling-Madrid/</guid>
