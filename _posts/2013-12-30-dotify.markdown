@@ -3,8 +3,9 @@ layout: post
 title:  "Dotify"
 ---
 
-Another small sketch using a photo of Wroclaw's main square.
 
 Click on the image to start/stop the animation.
 
 <canvas data-processing-sources="{{ site.url }}/sketches/dotify/dotify.pde"></canvas>
+
+Another small sketch using a photo of Wroclaw's main square.
