@@ -2,7 +2,7 @@
 PImage img;
 float dmap[][]; // image of distances
 
-float scale = 0.3; 
+float sc = 0.3; 
 color c;
 int mouseval = 0;
 
@@ -28,7 +28,7 @@ void setup(){
 
   for(int y = 0; y < height; y++){
     for(int x = 0; x < width; x++){
-      float d = (x - int(xi*scale)) * (x - int(xi*scale)) +  (y - int(yi*scale)) * (y - int(yi*scale));
+      float d = (x - int(xi*sc)) * (x - int(xi*sc)) +  (y - int(yi*sc)) * (y - int(yi*sc));
       dmap[x][y] = d;
     }
   }
@@ -47,7 +47,7 @@ void draw(){
 
     for(int y = 0; y < height; y++){
       for(int x = 0; x < width; x++){
-      int d = (x - int(xi*scale)) * (x - int(xi*scale)) +  (y - int(yi*scale)) * (y - int(yi*scale));
+      int d = (x - int(xi*sc)) * (x - int(xi*sc)) +  (y - int(yi*sc)) * (y - int(yi*sc));
         if(d < dmap[x][y]){
           dmap[x][y] = d;
           set(x, y, c);
