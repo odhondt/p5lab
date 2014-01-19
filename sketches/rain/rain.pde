@@ -8,7 +8,6 @@ void setup(){
   //size(int(img.width/2),int(img.height/2));
   frameRate(24);
   background(255);
-
 }
 float m = 1;
 color c;

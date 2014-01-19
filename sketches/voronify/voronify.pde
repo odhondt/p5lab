@@ -32,15 +32,12 @@ void setup(){
       dmap[x][y] = d;
     }
   }
-
 }
 
 
 
 void draw(){
   if(mouseval==1){
-
-
     int xi = int(random(img.width));
     int yi = int(random(img.height));
     c = img.get(xi, yi);

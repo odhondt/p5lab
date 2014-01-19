@@ -2,7 +2,7 @@
 layout: post
 title:  "Voronoi painting"
 ---
-Click on the image to start/stop the animation..
+Click on the image to start/stop the animation.
 
 <canvas data-processing-sources="{{ site.url }}/sketches/voronify/voronify.pde"></canvas>
 
