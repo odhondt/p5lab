@@ -1,6 +1,6 @@
 PImage img;
 // the path to the image is relative to the page where the script is run from
-img = loadImage("sketches/rain/Madrid.jpg");
+img = loadImage("/p5lab/sketches/rain/Madrid.jpg");
 //img = loadImage("Madrid.jpg");
 void setup(){
   size(1415/3,940/3); // had to hard code the size to 

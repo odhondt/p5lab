@@ -1,7 +1,7 @@
-/* @pjs preload="sketches/dotify/Rynek.jpg"; */
+/* @pjs preload="/p5lab/sketches/dotify/Rynek.jpg"; */
 
 PImage img;
-img = loadImage("sketches/dotify/Rynek.jpg");
+img = loadImage("/p5lab/sketches/dotify/Rynek.jpg");
 
 ArrayList<Dot> DotList;
 
