@@ -1,4 +1,4 @@
-/* @pjs preload="/p5lab/sketches/dotify/Madrid.jpg"; */
+/* @pjs preload="/p5lab/sketches/rain/Madrid.jpg"; */
 PImage img;
 // the path to the image is relative to the page where the script is run from
 img = loadImage("/p5lab/sketches/rain/Madrid.jpg");
