@@ -2,9 +2,9 @@
 layout: post
 title:  "Color cube"
 ---
-Drag to move the cube.
+Drag into the canvas with the mouse to move the cube.
 
-<canvas data-processing-sources="{{ site.url }}/sketches/color_cube/color_cube.pde"></canvas>
+<canvas data-processing-sources="/p5lab/sketches/color_cube/color_cube.pde"></canvas>
 
 This is a 3D color representation of a picture I have shot in La Barceloneta, the harbour of Barcelona.
 
