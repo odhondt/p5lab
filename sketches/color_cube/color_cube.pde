@@ -1,4 +1,4 @@
-/* @pjs preload="/sketches/color_cube/BarcelonetaColors.jpg"; */
+/* @pjs preload="/p5lab/sketches/color_cube/BarcelonetaColors.jpg"; */
 PImage img;
 
 int csp[][][]; // Colors in 3D space
@@ -14,7 +14,7 @@ float zoom = 0.75;
 float posX, posY;
 float dX, dY;
 
-String url = "/sketches/color_cube/BarcelonetaColors.jpg";
+String url = "/p5lab/sketches/color_cube/BarcelonetaColors.jpg";
 img = loadImage(url);
 img.resize(img.width/10,0);
 
