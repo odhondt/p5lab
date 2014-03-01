@@ -1,4 +1,4 @@
-/* @pjs preload="sketches/voronify/Sky.jpg"; */
+/* @pjs preload="/p5lab/sketches/voronify/Sky.jpg"; */
 PImage img;
 float dmap[][]; // image of distances
 
@@ -7,7 +7,7 @@ color c;
 int mouseval = 0;
 
 //  String url = "StLunaire.jpg"; // Comment for p5
-String url = "sketches/voronify/Sky.jpg"; // uncomment for p5js
+String url = "/p5lab/sketches/voronify/Sky.jpg"; // uncomment for p5js
 img = loadImage(url);
 
 void setup(){

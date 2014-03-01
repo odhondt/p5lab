@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Visual experiments with processing</title>
+		<title>Visual experiments with processing.org</title>
 		<description>Experiments in creative coding with processing.org</description>
-		<link></link>
-		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://odhondt.github.io/p5lab</link>
+		<atom:link href="http://odhondt.github.io/p5lab/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Color cube</title>
-				<description>&lt;p&gt;Drag to move the cube.&lt;/p&gt;
+				<description>&lt;p&gt;Drag into the canvas with the mouse to move the cube.&lt;/p&gt;
 
-&lt;p&gt;&lt;canvas data-processing-sources=&#39;/sketches/color_cube/color_cube.pde&#39; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;canvas data-processing-sources=&#39;/p5lab/sketches/color_cube/color_cube.pde&#39; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This is a 3D color representation of a picture I have shot in La Barceloneta, the harbour of Barcelona.&lt;/p&gt;
 
@@ -18,44 +18,44 @@
 
 &lt;p&gt;Please feel free to post comments / suggestions on &lt;a href=&quot;https://twitter.com/tyldurd&quot;&gt;tyldurd@twitter&lt;/a&gt;.&lt;/p&gt;</description>
 				<pubDate>Sun, 19 Jan 2014 00:00:00 +0100</pubDate>
-				<link>/2014/01/19/color-cube/</link>
-				<guid isPermaLink="true">/2014/01/19/color-cube/</guid>
+				<link>http://odhondt.github.io/p5lab/2014/01/19/color-cube/</link>
+				<guid isPermaLink="true">http://odhondt.github.io/p5lab/2014/01/19/color-cube/</guid>
 			</item>
 		
 			<item>
 				<title>Voronoi painting</title>
 				<description>&lt;p&gt;Click on the image to start/stop the animation.&lt;/p&gt;
 
-&lt;p&gt;&lt;canvas data-processing-sources=&#39;/sketches/voronify/voronify.pde&#39; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;canvas data-processing-sources=&#39;http://odhondt.github.io/p5lab/sketches/voronify/voronify.pde&#39; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Using a Voronoi tesselation to make an animated abstract painting from a photo. The algorithm is simple and is implemented in a few lines. First a pixel is randomly picked in the original photo and the background is set to the pixel color. The (spatial) distance of each point to this pixel is stored in a matrix. Then, another pixel is picked and all the points that are closer to this new pixel are updated with the new color. And so on… Simple!&lt;/p&gt;</description>
 				<pubDate>Fri, 03 Jan 2014 00:00:00 +0100</pubDate>
-				<link>/2014/01/03/voronoi/</link>
-				<guid isPermaLink="true">/2014/01/03/voronoi/</guid>
+				<link>http://odhondt.github.io/p5lab/2014/01/03/voronoi/</link>
+				<guid isPermaLink="true">http://odhondt.github.io/p5lab/2014/01/03/voronoi/</guid>
 			</item>
 		
 			<item>
 				<title>Dotify</title>
 				<description>&lt;p&gt;Click on the image to start/stop the animation.&lt;/p&gt;
 
-&lt;p&gt;&lt;canvas data-processing-sources=&#39;/sketches/dotify/dotify.pde&#39; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;canvas data-processing-sources=&#39;http://odhondt.github.io/p5lab/sketches/dotify/dotify.pde&#39; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Another small sketch using a photo of Wroclaw’s main square.&lt;/p&gt;</description>
 				<pubDate>Mon, 30 Dec 2013 00:00:00 +0100</pubDate>
-				<link>/2013/12/30/dotify/</link>
-				<guid isPermaLink="true">/2013/12/30/dotify/</guid>
+				<link>http://odhondt.github.io/p5lab/2013/12/30/dotify/</link>
+				<guid isPermaLink="true">http://odhondt.github.io/p5lab/2013/12/30/dotify/</guid>
 			</item>
 		
 			<item>
 				<title>My first processing sketch: resampling Madrid</title>
 				<description>&lt;p&gt;Click on the image to start/stop the animation.&lt;/p&gt;
 
-&lt;p&gt;&lt;canvas data-processing-sources=&#39;/sketches/rain/rain.pde&#39; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;canvas data-processing-sources=&#39;http://odhondt.github.io/p5lab/sketches/rain/rain.pde&#39; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I took the image resampling example from the &lt;a href=&quot;http://processingjs.org&quot;&gt;processing.js&lt;/a&gt; homepage and made my own version of it. I took this picture in Madrid, Spain.&lt;/p&gt;</description>
 				<pubDate>Wed, 25 Dec 2013 00:00:00 +0100</pubDate>
-				<link>/2013/12/25/resampling-Madrid/</link>
-				<guid isPermaLink="true">/2013/12/25/resampling-Madrid/</guid>
+				<link>http://odhondt.github.io/p5lab/2013/12/25/resampling-Madrid/</link>
+				<guid isPermaLink="true">http://odhondt.github.io/p5lab/2013/12/25/resampling-Madrid/</guid>
 			</item>
 		
 	</channel>

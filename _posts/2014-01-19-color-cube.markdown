@@ -4,6 +4,7 @@ title:  "Color cube"
 ---
 Drag into the canvas with the mouse to move the cube.
 
+<script src="/p5lab/processing.js" type="text/javascript"></script>
 <canvas data-processing-sources="/p5lab/sketches/color_cube/color_cube.pde"></canvas>
 
 This is a 3D color representation of a picture I have shot in La Barceloneta, the harbour of Barcelona.
