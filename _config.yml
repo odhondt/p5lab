@@ -2,5 +2,5 @@ name: Visual experiments with processing.org
 url: http://odhondt.github.io/p5lab/
 description: Experiments in creative coding with processing.org
 permalink: /:year/:month/:day/:title/
-paginate: 10
+paginate: 1
 pygments: true
