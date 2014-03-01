@@ -9,11 +9,11 @@ title: Archives
 		<article class="post">
 			{% if post.external-url %}
 				<h2>
-					<a href="{{ post.external-url }}">{{ post.date }} - {{ post.title }}</a> 
+					<a href="{{ post.external-url }}">{{ post.date | date: "%-d %B %Y" }} - {{ post.title }}</a> 
 					<a class="anchor" href="{{ site.url }}{{ post.url }}">&#9875;</a>
 				</h2>
 			{% else %}
-				<h2><a href="{{ site.url }}{{ post.url }}">{{ post.date }} - {{ post.title }}</a></h2>
+				<h2><a href="{{ site.url }}{{ post.url }}">{{ post.date | date: "%-d %B %Y"  }} - {{ post.title }}</a></h2>
 			{% endif %}
 		</article>
 	{% endfor %}
