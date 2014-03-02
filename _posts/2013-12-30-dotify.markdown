@@ -1,6 +1,5 @@
 ---
 layout: post
-comments: true
 title:  "Dotify"
 ---
 Click on the image to start/stop the animation.
