@@ -123,13 +123,22 @@ h3 {
 #header h1 {
   	font-family: "Helvetica Neue", "Helvetica", serif;
         font-weight:100;
-	font-size: 2.5em;
+	font-size: 2.2em;
 	margin-bottom: 4px;
 }
 #header h1 a {
 	border: none;
 }
 
+#header h2 {
+  	font-family: "Helvetica Neue", "Helvetica", serif;
+        font-weight:100;
+	font-size: 2em;
+	margin-bottom: 4px;
+}
+#header h2 a {
+	border: none;
+}
 #footer {
 	width: 700px;
 	margin: 50px auto 20px auto;
@@ -184,6 +193,18 @@ article h1 a.anchor {
 	margin-left: 8px;
 }
 
+article h2 {
+  	font-family: "Helvetica Neue", "Helvetica", serif;
+        font-weight:100;
+	font-size: 1.2em;
+	margin: 0 0 10px 0;
+}
+article h2 a {
+	border: none;
+}
+article h2 a.anchor {
+	margin-left: 8px;
+}
 article img {
 	display: block;
 	text-align: center;
