@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "Voronoi painting"
+comments: false
 ---
+
 Click on the image to start/stop the animation.
 
 <script src="/p5lab/processing.js" type="text/javascript"></script>
