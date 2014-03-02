@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "My first processing sketch: resampling Madrid"
 ---
 
