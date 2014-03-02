@@ -1,6 +1,5 @@
 ---
 layout: post
-comments: false
 title:  "Voronoi painting"
 ---
 
