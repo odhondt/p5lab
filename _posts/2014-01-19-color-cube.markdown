@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Color cube"
 comments: true
+title:  "Color cube"
 ---
 Drag into the canvas with the mouse to move the cube.
 
