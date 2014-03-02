@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title:  "My first processing sketch: resampling Madrid"
+title:  "Resampling Madrid"
 ---
 
 Click on the image to start/stop the animation.
