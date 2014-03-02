@@ -8,7 +8,7 @@
 		
 			<item>
 				<title>Color cube</title>
-				<description>&lt;p&gt;Drag into the canvas with the mouse to move the cube.&lt;/p&gt;
+				<description>&lt;p&gt;Drag with the mouse to move the cube.&lt;/p&gt;
 &lt;script src=&#39;/p5lab/processing.js&#39; type=&#39;text/javascript&#39;&gt;&lt;![CDATA[]]&gt;&lt;/script&gt;
 &lt;p&gt;&lt;canvas data-processing-sources=&#39;/p5lab/sketches/color_cube/color_cube.pde&#39; /&gt;&lt;/p&gt;
 
