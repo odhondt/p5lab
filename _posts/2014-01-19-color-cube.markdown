@@ -16,5 +16,3 @@ I also remove redundant colors so that the number of points to draw is smaller.
 The GUI could be improved by adding transparency as a function of the point density, displaying info such as stats, view angle, etc.
 I'll add a link to the photo soon.
 Mouse wheel should (un)zoom however, it only scrolls the page. Looking for a way to keep focus on the canvas while the mouse is on it. Any tip?
-
-Please feel free to post comments / suggestions on [tyldurd@twitter](https://twitter.com/tyldurd).
