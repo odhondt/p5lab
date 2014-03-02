@@ -8,6 +8,10 @@ title: P5 experiments
 
 	<article class="post">
 
+          <p class="meta"><span class="postdate">{{ post.date | date: "%b %d, %Y" }}</span></p>
+          <h2><a href="{{ site.url }}{{ post.url }}#disqus_thread">comments</a></h2>
+
+
 		{% if post.external-url %}
 			<h1>
 				<a href="{{ post.external-url }}">{{ post.title }}</a>
@@ -18,9 +22,8 @@ title: P5 experiments
 		{% endif %}
 
 		<div class="post-content">{{ post.content }}</div>
-                <p class="meta">Posted on <span class="postdate">{{ post.date | date: "%b %d, %Y" }}</span></p>
-                <h2><a href="{{ site.url }}{{ post.url }}#disqus_thread">Comments</a></h1>
 
+               
 	</article>
     <!--     Comment section (Disqus) -->
 
